@@ -25,7 +25,7 @@ Backend: Node js, Express js
 
 Clone this repository
 
-git clone https://github.com/your-username/minimal-todo-app.git
+git clone https://github.com/Ashmeetha29/SCT_WD_4.git
 
 Open the project folder
 Run index.html in your browser
